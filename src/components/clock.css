@@ -1,0 +1,11 @@
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+  background-color: black;
+  color: white;
+  font-size: xx-large;
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
